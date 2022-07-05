@@ -40,3 +40,7 @@ section {
     background-repeat: no-repeat;
     background-size: 1600px 600px;
 }
+
+.center {
+    text-align: center;
+}
