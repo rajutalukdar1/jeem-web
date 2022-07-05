@@ -44,3 +44,22 @@ section {
 .center {
     text-align: center;
 }
+
+
+.itme img {
+    width: 80%;
+}
+
+.itme {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px rgb(178, 156, 156);
+    border-radius: 40px;
+    padding: 1%;
+}
+
+.i-d {
+    text-align: center;
+    border-radius: 40%;
+}
