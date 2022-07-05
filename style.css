@@ -63,3 +63,19 @@ section {
     text-align: center;
     border-radius: 40%;
 }
+
+.viwe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 20% 5% 30% red;
+    color: white;
+    background-color: black;
+
+}
+
+.down {
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+}
